@@ -1,0 +1,10 @@
+#LD pymongo
+
+#At first, you need to set up mongodb
+#LD data from GoogleGenomics
+#https://googlegenomics.readthedocs.io/en/latest/use_cases/linkage_disequilibrium/public_ld_datasets.html
+
+#Input : SNP list
+#Output : SNP list with LD relationship (D`>0.8)
+
+#by BioinformaticsAndMe
